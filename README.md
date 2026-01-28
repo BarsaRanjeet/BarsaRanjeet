@@ -29,13 +29,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarsaRanjeet&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BarsaRanjeet&theme=tokyonight" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/BarsaRanjeet/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=BarsaRanjeet" alt="trophy" />
 
 ## GitHub Activity Graph
 
