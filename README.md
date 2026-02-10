@@ -23,11 +23,20 @@
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="aws" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BarsaRanjeet&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BarsaRanjeet&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BarsaRanjeet&theme=tokyonight&utcOffset=5.5" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BarsaRanjeet&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+## 📌 GitHub Badges
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarsaRanjeet&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+![Followers](https://img.shields.io/github/followers/BarsaRanjeet?style=social)
+![Stars](https://img.shields.io/github/stars/BarsaRanjeet?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=BarsaRanjeet&style=flat-square)
 
 
 ## GitHub Activity Graph
