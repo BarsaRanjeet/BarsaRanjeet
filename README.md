@@ -11,7 +11,7 @@
 
 ## Skills
 
-<p align="left">
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="aws" width="40" height="40"/>&nbsp;
-</p>
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -42,4 +42,3 @@
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarsaRanjeet&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
