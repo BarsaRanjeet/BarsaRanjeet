@@ -36,6 +36,7 @@
 ![Followers](https://img.shields.io/github/followers/BarsaRanjeet?style=social)
 ![Stars](https://img.shields.io/github/stars/BarsaRanjeet?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=BarsaRanjeet&style=flat-square)
+[![An image of @barsaranjeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/barsaranjeet)](https://holopin.io/@barsaranjeet)
 
 
 ## GitHub Activity Graph
